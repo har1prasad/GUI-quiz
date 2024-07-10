@@ -2,7 +2,7 @@
 
 A fun and challenging Python game built with the Turtle graphics library. Guide your turtle safely across a busy highway filled with colorful cars!
 
-## Features:
+## Features
 - Control a turtle character with arrow keys
 - Dodge randomly generated, moving cars
 - Increasing difficulty as you progress

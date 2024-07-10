@@ -10,7 +10,7 @@ A fun and challenging Python game built with the Turtle graphics library. Guide 
 
 Perfect for beginners learning Python or anyone looking for a quick, entertaining game. Test your reflexes and see how far you can get your turtle!
 
-## How to Play:
+## How to Play
 - Use the Up arrow key to move your turtle forward
 - Avoid colliding with cars
 - Reach the top of the screen to win and advance to the next level
